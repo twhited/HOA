@@ -67,3 +67,19 @@
 | **Total Administrative** | **$19,199.00** |
 
 **Total Operating Expenses: $65,799.00**
+
+---
+
+## Reserve Transfers=
+| Category | 2023 Amount |
+| :--- | :--- |
+| Interest to Reserves | $0.00 |
+| Transfer to Reserve | $37,941.00 |
+| Working Capital to Reserve | $0.00 |
+| **Total General Reserves** | **$37,941.00** |
+
+---
+
+## Summary
+* **Expenses and Reserves TOTAL**: $103,740.00
+* **Net Income**: $0.00
