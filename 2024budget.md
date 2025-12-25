@@ -46,4 +46,12 @@
 | 70-7060-0000 - LEGAL | $400.00 |
 
 ### 14 - RESERVE TRANSFERS
-| GL Code / Category | 20
+| GL Code / Category | 2024 Amount |
+| :--- | :--- |
+| 80-8505-0000 - RESERVE TRANSFER | $3,478.24 |
+
+---
+
+## Summary
+* **Expense Accounts Total**: $47,820.00
+* **Net Income**: $0.00
