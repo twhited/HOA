@@ -1,6 +1,6 @@
 ## Messages
 
-## Budget - Actual
+## Statement of Revenue and Expenses
 - 2023 Actuals [PDF](https://github.com/twhited/HOA/blob/main/Docs/actual/2023%20Actuals.pdf)  
 - 2024 Actuals [PDF](https://github.com/twhited/HOA/blob/main/Docs/actual/2024%20Actuals.pdf)  
 - 2025 Actuals [PDF](https://github.com/twhited/HOA/blob/main/Docs/actual/2025%20Actuals%20YTD.pdf)  
@@ -23,3 +23,4 @@
 - November 19, 2025 - I reach out to ask about calling a special meeting per the CCRs via a petition, ask when the annual meeting would occur per the CCRs, and also reference the CCRs rules around the maximum allowed increase without calling a vote. [Source](https://github.com/twhited/HOA/blob/main/Messages/11-19%20Personal%20request%20to%20Ghertner.pdf)
 - November 24, 2025 - Formal Request by a group of the homeowners [Email](https://github.com/twhited/HOA/blob/main/Messages/11-24%20Formal%20Request%20for%20Records%20and%20Meeting.pdf) [Official Request](https://github.com/twhited/HOA/blob/main/Messages/11-24%20Offical%20request%20of%20documents.pdf) [Petition](https://github.com/twhited/HOA/blob/main/Messages/11-24%20petition_signatures_jobs_490892964_20251124182903.pdf)
 - December 3, 2025 - Increase was rescinded temporarily [Source](https://github.com/twhited/HOA/blob/main/Messages/12-3%20Fee%20Rescinded.pdf)
+- December 22, 2025 - Latest Statement quotes $75.00 due. Homeowners on ACH set to pay the wrong amount. [Source]()
