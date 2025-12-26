@@ -1,4 +1,4 @@
-## Messages
+# Resources and Communication for Stratford Station concerning HOA maintenance increase.
 
 ## Statement of Revenue and Expenses
 - 2023 Actuals [PDF](https://github.com/twhited/HOA/blob/main/Docs/actual/2023%20Actuals.pdf)  
