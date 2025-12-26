@@ -1,5 +1,11 @@
 # Resources and Communication for Stratford Station concerning HOA maintenance increase.
 
+## Notes
+All documents linked below are for the SFH at Stratford Station. The Townhomes have shared CCRs, but their own budget and expenses. 
+
+## Documents
+- [CCRs](https://github.com/twhited/HOA/blob/main/Docs/CCRs.pdf)
+
 ## Statement of Revenue and Expenses
 - 2023 Actuals [PDF](https://github.com/twhited/HOA/blob/main/Docs/actual/2023%20Actuals.pdf)  
 - 2024 Actuals [PDF](https://github.com/twhited/HOA/blob/main/Docs/actual/2024%20Actuals.pdf)  
